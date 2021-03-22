@@ -1,5 +1,5 @@
 import pytest
-from data_structures_and_algorithms.linkedlists import SinglyLinkedList
+from linkedlists import SinglyLinkedList
 
 class TestSinglyLinkedList:
   def test_insert_at_head(self):
